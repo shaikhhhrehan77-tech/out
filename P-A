@@ -1,0 +1,59 @@
+Output 1:
+Enter x1 and y1 (coordinates of the first point): 0 0
+Enter x2 and y2 (coordinates of the second point): 3 4
+The straight-line distance between the two points is: 5.00
+
+Output 2:
+Enter the student's marks (0 to 100): 92
+Grade: A
+
+Output 3:------ KYC Verification System----
+1. PAN Number
+2. AADHARNumber
+3. APAAR Id
+4. Driving License
+5. Passport
+Enter your choice (1-5): 3
+APAARVerified!
+
+Output4:
+Entercoefficientsa,b,andc:001
+InvalidCoefficients!
+Output4:
+Entercoefficientsa,b,andc:024
+ThisisnotaquadraticequationbutLinearEquation.
+LinearEquationwithroot:-2.00
+
+Output 5:
+Enter angle in degrees: 90
+Approximated sin(90) = 1.00
+
+Output 6:
+Enter the course description:
+Introduction to Computer Science and Programming
+Enter the keyword to search: Programming
+Keyword 'Programming' found in the Introduction to Computer Science and Programming course
+description.
+
+Output 7:
+Enter marks for Subject 1: 50
+Enter marks for Subject 2: 60
+Enter marks for Subject 3: 70
+Average Marks: 60.00
+Result: PASS
+Output 7:
+Enter marks for Subject 1: 40
+Enter marks for Subject 2: 39
+Enter marks for Subject 3: 50
+Average Marks: 43.00
+Result: FAIL
+
+Output 8:
+Enter balance for Account 1: 1000
+Enter balance for Account 2: 2000
+Before Swapping:
+Account 1 Balance: 1000
+Account 2 Balance: 2000
+After Swapping:
+Account 1 Balance: 2000
+Account 2 Balance: 1000
