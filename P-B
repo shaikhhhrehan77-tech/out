@@ -1,0 +1,72 @@
+Output 1:
+Enter number of books: 5
+Enter 5 Book IDs in ascending order:
+110 111 112 113 114
+Enter Book ID to search: 114
+Book is available.
+
+Output 2:
+Enter number of students: 5
+Enter the scores:
+100 500 300 800 700
+Scores in descending order:
+800 700 500 300 100
+
+Output 3:
+Enter number of branches: 3
+Enter number of products: 3
+Enter number of units shipped by each branch for each product:
+Branch 1:
+Product 1 units: 10
+Product 2 units: 20
+Product 3 units: 30
+Branch 2:
+Product 1 units: 20
+Product 2 units: 30
+Product 3 units: 10
+Branch 3:
+Product 1 units: 50
+Product 2 units: 20
+Product 3 units: 30
+Enter revenue per unit for each product:
+Product 1 revenue: 50
+Product 2 revenue: 30
+Product 3 revenue: 40
+Total revenue per branch:
+Branch 1: 2300
+Branch 2: 2300
+Branch 3: 4300
+
+Output 4:
+Enter first name: Kempe
+Enter last name: Gowda
+Full Name: Kempe Gowda
+Length: 11
+Name fits the screen.
+Output 4:
+Enter first name: ComputerScienceEngineering
+Enter last name: CProgram
+Full Name: ComputerScienceEngineering CProgram
+Length: 35
+Name too long for screen.
+
+Output 5:
+Enter two currency values: 100 200
+Preview Swap (By Value): 200 100
+After Call by Value: 100 200
+Actual Swap (By Reference): 200 100
+After Call by Reference: 200 100
+
+Output 6:
+Enter number of books: 2
+Enter title, author, and year for book 1:
+CProgramming
+Dennis
+1978
+Enter title, author, and year for book 2:
+DBMS
+Navathe
+2015
+Library Book Details:
+Book 1: CProgramming by Dennis (1978)
+Book 2: DBMS byNavathe (2015)
